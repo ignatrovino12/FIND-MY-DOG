@@ -1,2 +1,2 @@
 # FIND-MY-DOG
-Extrageti fisierul si deschideti de pe pagina acasa
+Extract the files and then open the home page (acasa).
